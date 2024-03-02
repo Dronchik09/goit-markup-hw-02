@@ -10,79 +10,79 @@ ul, ol{
     list-style: none;
 }
 .logo {
-    color: #4D5AE5;
-    font-family: Raleway, sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
+    color:#4D5AE5;
+    font-family:"Raleway",sans-serif;
+    font-weight:700;
+    font-size:18px;
+    line-height:1.17;
+    letter-spacing:0.03em;
+    text-transform:uppercase;
 }
 .logo-part {
     color: #2E2F42;
 }    
 .link-navigation {    
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2E2F42;
+    font-weight:500;
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing:0.02em;
+    color:#2E2F42;
 }
 .link-navigation:hover,
 .link-navigation:focus{
-    color: #404BBF;
+    color:#404BBF;
 }
 .address {
-    font-style: normal;
+    font-style:normal;
 }
 .address-link {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;    
+    font-size:16px;
+    line-height:1.5;
+    letter-spacing:0.02em;
+    color:#434455;    
 }
 .address-link:hover,
 .address-link:focus{
-    color: #404BBF;
+    color:#404BBF;
 }
 .section {
-    background: #2E2F42;
+    background:#2E2F42;
 }
 .section-head {
-font-weight: 700;
-font-size: 56px;
-line-height: 1.07;
-letter-spacing: 0.02em;
-text-align: center;
-color: #FFF;
+font-weight:700;
+font-size:56px;
+line-height:1.07;
+letter-spacing:0.02em;
+text-align:center;
+color:#FFF;
 }
 .section-button {
-background: #4D5AE5;
-cursor: pointer;
+background:#4D5AE5;
+cursor:pointer;
 }
 .button-name{
-font-weight: 500;
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.04em;
-color: #FFF;
+font-weight:500;
+font-size:16px;
+line-height:1.5;
+letter-spacing:0.04em;
+color:#FFF;
 }
 .list-head{
-font-weight: 500;
-font-size: 20px;
-line-height: 1.2;
-letter-spacing: 0.02em;
-color: #2E2F42;
+font-weight:500;
+font-size:20px;
+line-height:1.2;
+letter-spacing:0.02em;
+color:#2E2F42;
 }
 .list-paragraph{
 
-font-size: 16px;
-line-height: 1.5;
-letter-spacing: 0.02em;
-color: #434455;
+font-size:16px;
+line-height:1.5;
+letter-spacing:0.02em;
+color:#434455;
 }
 .section-team{
-background: #F4F4FD;
+background:#F4F4FD;
 }
 .our-team {
 font-weight: 700;
