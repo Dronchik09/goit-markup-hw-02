@@ -83,7 +83,9 @@ line-height:1.5;
 letter-spacing:0.02em;
 color:#434455;
 }
-
+.section-team{
+    background-color: #F4F4FD;
+}
 .our-team {
 font-weight: 700;
 font-size: 36px;
@@ -94,7 +96,7 @@ text-align: center;
 color: #2E2F42;
 }
 .section-list{
-    background:#F4F4FD;
+    background:#ffffff;
 }
 .name {
 font-weight: 500;
