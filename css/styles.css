@@ -1,7 +1,7 @@
 body{
     font-family: "Roboto", sans-serif;
     color:#434455;
-    background: #fff;
+    background-color: #FFF;
 }
 a{
     text-decoration: none;
@@ -10,27 +10,27 @@ ul, ol{
     list-style: none;
 }
 .logo {
-    font-family:'Raleway', sans-serif;
-    font-weight:700;
-    font-size:18px;
-    line-height:1.17;
-    letter-spacing:0.03em;
-    text-transform:uppercase;
-    color: #4d5ae5;
+    color: #4D5AE5;
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 .logo-part {
-    color: #2e2f42;
+    color: #2E2F42;
 }    
 .link-navigation {    
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #2E2F42;
 }
 .link-navigation:hover,
 .link-navigation:focus{
-    color: #404bbf;
+    color: #404BBF;
 }
 .address {
     font-style: normal;
@@ -43,10 +43,10 @@ ul, ol{
 }
 .address-link:hover,
 .address-link:focus{
-    color: #404bbf;
+    color: #404BBF;
 }
 .section {
-    background: #2e2f42;
+    background: #2E2F42;
 }
 .section-head {
     font-weight: 700;
@@ -54,10 +54,10 @@ font-size: 56px;
 line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
-color: #fff;
+color: #FFF;
 }
 .section-button {
-background: #4d5ae5;
+background: #4D5AE5;
 cursor: pointer;
 }
 .button-name{
@@ -65,16 +65,16 @@ cursor: pointer;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
-color: #fff;
+color: #FFF;
 }
-.list-head {
+.list-head{
     font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
-color: #2e2f42;
+color: #2E2F42;
 }
-.list-paragraph {
+.list-paragraph{
 
 font-size: 16px;
 line-height: 1.5;
@@ -82,7 +82,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .section-team{
-    background: #f4f4fd;
+    background: #F4F4FD;
 }
 .our-team {
     font-weight: 700;
@@ -91,14 +91,14 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 text-align: center;
-color: #2e2f42;
+color: #2E2F42;
 }
 .name {
     font-weight: 500;
 font-size: 20px;
 line-height: 1.11;
 letter-spacing: 0.02em;
-color: #2e2f42;
+color: #2E2F42;
 }
 .name-paragraph {
 font-size: 16px;
@@ -113,14 +113,14 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-transform: capitalize;
 text-align: center;
-color: #2e2f42;
+color: #2E2F42;
 }
 .name-portfolio {
     font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
-color: #2e2f42;
+color: #2F2F42;
 }
 .name-p {
 font-size: 16px;
