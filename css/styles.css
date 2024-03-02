@@ -49,7 +49,7 @@ ul, ol{
     background: #2E2F42;
 }
 .section-head {
-    font-weight: 700;
+font-weight: 700;
 font-size: 56px;
 line-height: 1.07;
 letter-spacing: 0.02em;
@@ -61,14 +61,14 @@ background: #4D5AE5;
 cursor: pointer;
 }
 .button-name{
-    font-weight: 500;
+font-weight: 500;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #FFF;
 }
 .list-head{
-    font-weight: 500;
+font-weight: 500;
 font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
@@ -82,10 +82,10 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .section-team{
-    background: #F4F4FD;
+background: #F4F4FD;
 }
 .our-team {
-    font-weight: 700;
+font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
@@ -94,7 +94,7 @@ text-align: center;
 color: #2E2F42;
 }
 .name {
-    font-weight: 500;
+font-weight: 500;
 font-size: 20px;
 line-height: 1.11;
 letter-spacing: 0.02em;
@@ -107,7 +107,7 @@ letter-spacing: 0.02em;
 color: #434455;
 }
 .our-portfolio {
-    font-weight: 700;
+font-weight: 700;
 font-size: 36px;
 line-height: 1.11;
 letter-spacing: 0.02em;
@@ -128,16 +128,6 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455;
 }
-
-
-
-
-
-
-
-
-
-
 .footer{
     background: #2e2f42;
 }
