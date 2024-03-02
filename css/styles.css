@@ -59,8 +59,6 @@ color:#FFF;
 .section-button {
 background:#4D5AE5;
 cursor:pointer;
-}
-.button-name{
 font-weight:500;
 font-size:16px;
 line-height:1.5;
@@ -81,9 +79,7 @@ line-height:1.5;
 letter-spacing:0.02em;
 color:#434455;
 }
-.section-team{
-background:#F4F4FD;
-}
+
 .our-team {
 font-weight: 700;
 font-size: 36px;
@@ -93,10 +89,13 @@ text-transform: capitalize;
 text-align: center;
 color: #2E2F42;
 }
+.section-list{
+    background:#F4F4FD;
+}
 .name {
 font-weight: 500;
 font-size: 20px;
-line-height: 1.11;
+line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2E2F42;
 }
